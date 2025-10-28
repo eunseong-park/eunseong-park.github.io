@@ -25,3 +25,22 @@ body > header, body > footer
     background: $dark
   body, body > header, body > footer
     box-shadow: 0 0 0 1px lighten($dark, 8%)
+
+// --- Responsive video embeds ---
+.video-container
+  position: relative
+  padding-bottom: 50%   // 16:9 aspect ratio
+  height: 0
+  overflow: hidden
+  max-width: 80%
+  background: #000          // optional black background
+  border-radius: 0.5rem     // optional rounded corners
+  margin-top: 0.5em
+  margin-bottom: 1em
+
+.video-container iframe
+  position: absolute
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
