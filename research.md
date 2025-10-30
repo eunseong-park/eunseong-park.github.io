@@ -8,13 +8,13 @@ layout: page
 * **[Fueling Electrification: The Impact of Gas Prices on Hybrid Car Usage](assets/pdf/20251003_GrigolonParkRemy.pdf){:target="_blank"}** with *[Laura Grigolon](https://sites.google.com/site/lauragrig/home)* and *[Kevin Remmy](http://kevinremmy.com/)*
   * *Conditionally accepted, Journal of the Association of Environmental and Resource Economists*
   * **Abstract:** We use micro-level data on fuel consumption, mileage, and travel mode to study how plug-in hybrid drivers respond to fuel prices. When fuel prices rise, plug-in hybrids reduce fuel consumption more than gasoline and diesel cars. They do not proportionally reduce their mileage; instead, they increase electric charging. Since plug-in hybrids drive in electric mode for only half the distance suggested by official test cycle values, fuel prices are effective in improving the environmental performance of these vehicles.
-  * Selected media coverage: [Wirtschaftswoche (15/2024)](https://emagazin.wiwo.de/epaper/wirtschaftswoche-2024-04-05-epa-1271/?interactivelayer=73364), [auto motor und sport](https://www.auto-motor-und-sport.de/verkehr/studie-zur-phev-nutzung-hohe-spritpreise-foerdern-e-kilometer/), [GIGA](https://www.giga.de/news/benzin-zu-teuer-besitzer-von-plug-in-hybriden-denken-um/)
+  * Selected media coverage: [Wirtschaftswoche (15/2024 in German)](https://emagazin.wiwo.de/epaper/wirtschaftswoche-2024-04-05-epa-1271/?interactivelayer=73364)
   * You can listen to an AI-generated podcast  (in
-    <a href="https://desilentio.com/phev_english.m4a" target="_blank" rel="noopener">English</a>
+    `<a href="https://desilentio.com/phev_english.m4a" target="_blank" rel="noopener">`English `</a>`
     or
-    <a href="https://desilentio.com/phev_german.m4a" target="_blank" rel="noopener">German</a>)
+    `<a href="https://desilentio.com/phev_german.m4a" target="_blank" rel="noopener">`German `</a>`)
     or watch an explainer video (powered by NotebookLM):
-    {% include youtube.html id="dgZ6CLZE1-o?si=h8ylgWcm0KcXVpR-" %} 
+    {% include youtube.html id="dgZ6CLZE1-o?si=h8ylgWcm0KcXVpR-" %}
 
 ## Work in Progress
 
