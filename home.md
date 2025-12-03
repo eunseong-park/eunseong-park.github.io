@@ -1,6 +1,7 @@
 ---
-title: "Welcome"
-layout: post
+title: "Home"
+permalink: "/"
+layout: home
 ---
 <img src="assets\img\pic.jpg" width="200">
 
