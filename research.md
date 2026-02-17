@@ -14,4 +14,4 @@ layout: page
 
 ## Work in Progress
 
-* **The Welfare Effects of Border Carbon Measures for Steel Industry Decarbonization** with *[Sebastian Rausch](https://sebastianrausch.com)* and *[Valerie J. Karplus](https://vkarplus.com)*
+* **Environmental Ambition and Economic Protectionism: The Design of Border Carbon Adjustments** with *[Sebastian Rausch](https://sebastianrausch.com)* and *[Valerie J. Karplus](https://vkarplus.com)*
