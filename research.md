@@ -6,7 +6,7 @@ layout: page
 ## Publication
 
 * **[Fueling Electrification: The Impact of Gas Prices on Hybrid Car Usage](assets/pdf/20251003_GrigolonParkRemy.pdf){:target="_blank"}** with *[Laura Grigolon](https://sites.google.com/site/lauragrig/home)* and *[Kevin Remmy](http://kevinremmy.com/)*
-  * *Forthcoming, Journal of the Association of Environmental and Resource Economists*
+  * [*Journal of the Association of Environmental and Resource Economists*, 2026, Vol. 13, Issue 3, pages 681 - 711](https://www.journals.uchicago.edu/doi/10.1086/739663)
   * **Abstract:** We use micro-level data on fuel consumption, mileage, and travel mode to study how plug-in hybrid drivers respond to fuel prices. When fuel prices rise, plug-in hybrids reduce fuel consumption more than gasoline and diesel cars. They do not proportionally reduce their mileage; instead, they increase electric charging. Since plug-in hybrids drive in electric mode for only half the distance suggested by official test cycle values, fuel prices are effective in improving the environmental performance of these vehicles.
   * Selected media coverage: [Wirtschaftswoche (15/2024 in German)](https://emagazin.wiwo.de/epaper/wirtschaftswoche-2024-04-05-epa-1271/?interactivelayer=73364)
   * You can listen to an AI-generated podcast (in [English](https://desilentio.com/phev_english.m4a) or [German](https://desilentio.com/phev_german.m4a)) or watch an explainer video (powered by NotebookLM):
