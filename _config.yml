@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "assets/pdf/CV_Eunseong_Park.pdf", title: "CV"}
   - {file: "research.md"}
   - {file: "teaching.md"}
+  - {file: "talks.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:eunseong.park@zew.de"}
