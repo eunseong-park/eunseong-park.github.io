@@ -9,7 +9,7 @@ Hi, my name is Eunseong (Korean: 은성; Hanja: 恩聖; Korean pronunciation: [[
 
 In Fall 2026, I am visiting the London School of Economics and Political Science (September–October) and the Toulouse School of Economics (November). See [Talks](/talks/) for my upcoming and past presentations.
 
-**Research Interests:** Environmental Economics, Industrial Organization, Public Economics.
+**Research Interests:** Environmental Economics, Empirical Industrial Organization
 
 I also develop and maintain a [VS Code extension for GAMS](https://github.com/eunseong-park/vscode-gams).
 
