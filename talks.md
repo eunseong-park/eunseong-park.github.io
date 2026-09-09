@@ -16,14 +16,12 @@ layout: page
 * **31st ENTER Jamboree**, Universidad Carlos III de Madrid, Spain *(June 15–16)*
 * **14th Mannheim Conference on Energy and the Environment (MCEE)**, Mannheim, Germany *(May 19–20)*
 * **INDABA Partnership Technical Conference**, University of Cape Town, South Africa *(May 11)*
-* **MaCCI IO Day**, Mannheim, Germany *(May 8)*
 
 ### 2025
 * **Annual Conference of German Economic Association (VfS)**, University of Cologne, Germany *(September 14–17)*
 * **30th Annual Conference of the European Association of Environmental and Resource Economists (EAERE)**, Norwegian School of Economics (NHH), Bergen, Norway *(June 16–19)*
 * **Summer Conference of the Association of Environmental and Resource Economists (AERE)**, Santa Ana Pueblo, USA *(May 28–30)*
 * **AURÖ Workshop for Young Researchers in Environmental and Resource Economics (VfS)**, Mannheim, Germany *(February 20–21)*
-* **Environmental Economics Brownbag Seminar** (ZEW, University of Mannheim, Heidelberg University), Mannheim, Germany *(February 18)*
 
 ### 2024
 * **AURÖ Workshop for Young Researchers in Environmental and Resource Economics (VfS)**, Karlsruhe, Germany *(March 21–22)*
