@@ -1,0 +1,36 @@
+title: "Eunseong Park"
+author: "Eunseong Park"
+description: "Eunseong Park"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "home.md"}
+  - {url: "assets/pdf/CV_Eunseong_Park.pdf", title: "CV"}
+  - {file: "research.md"}
+  - {file: "teaching.md"}
+  - {file: "talks.md"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:eunseong.park@zew.de"}
+  - {title: Github, icon: github, url: "https://github.com/eunseong-park"}
+  - {title: X, icon: twitter, url: "https://twitter.com/eunseong_park"}
+  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
