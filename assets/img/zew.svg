@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<parent xmlns="http://example.org"
+        xmlns:svg="http://www.w3.org/2000/svg">
+   <!-- parent contents here -->
+
+<svg class="u-d:n@sm u-d:b" aria-labelledby="logoTitleHeader" role="img" xmlns="http://www.w3.org/2000/svg" width="59.92" height="20.281" viewBox="0 0 59.92 20.281">
+				<path id="logoTitleHeader" d="M36.472,191.956l9.952-17.549H37.05v-2.459h13.9L41.027,189.5h9.888v2.459Z" transform="translate(-36.472 -171.903)" fill="#0069b4"></path>
+				<path d="M50.622,174.405v5.559h7.894v2.321H50.622V189.5H60.66v2.458H47.6V171.948H60.827v2.458Z" transform="translate(-28.796 -171.903)" fill="#0069b4"></path>
+				<path d="M75.645,192.2h-.951l-5.278-13.794L64.488,192.2h-.953L56.55,171.921h3.143l4.446,13.971,4.869-13.971h1.058l4.808,13.944,4.521-13.944H82.54Z" transform="translate(-22.62 -171.921)" fill="#0069b4"></path>
+			</svg>
+
+   <!-- ... -->
+</parent>
