@@ -1,0 +1,25 @@
+---
+title: "Research"
+permalink: "/research/"
+layout: page
+---
+
+## Job Market Paper
+
+* **[The Structural Frictions of Industrial Decarbonization](/assets/pdf/Park_JMP.pdf){:target="_blank"}**
+  * **Abstract:** Restricting clean-investment grants to existing plants avoids paying new plants that would be built anyway, but existing plants may need much larger grants to adopt a cleaner technology. To study this trade-off, I estimate a dynamic structural model of the U.S. steel industry, using a novel plant-level panel constructed from industry directories. Each year, old plants choose whether to keep running, close, or adopt the cleaner technology, and new plants whether to enter. Existing plants face two structural frictions that new plants do not: obligations to workers due at shutdown, and a fixed adoption cost that exceeds the cost of new equipment. At equal abatement, this restriction cuts the share paid for investment that would happen anyway from about half to an eighth but barely changes public spending per tonne of CO<sub>2</sub> avoided, because old plants need larger grants. Paying only plants that replace their old technology nearly doubles that spending: owners would rather add the cleaner technology beside the old one and defer the obligations.
+
+## Publication
+
+* **[Fueling Electrification: The Impact of Gas Prices on Hybrid Car Usage](/assets/pdf/20251003_GrigolonParkRemy.pdf){:target="_blank"}** with *[Laura Grigolon](https://sites.google.com/site/lauragrig/home)* and *[Kevin Remmy](http://kevinremmy.com/)*
+  * [*Journal of the Association of Environmental and Resource Economists*, 2026, Vol. 13, Issue 3, pages 681 - 711](https://www.journals.uchicago.edu/doi/10.1086/739663)
+  * [Replication materials](https://doi.org/10.7910/DVN/XKOD8D)
+  * **Abstract:** We use micro-level data on fuel consumption, mileage, and travel mode to study how plug-in hybrid drivers respond to fuel prices. When fuel prices rise, plug-in hybrids reduce fuel consumption more than gasoline and diesel cars. They do not proportionally reduce their mileage; instead, they increase electric charging. Since plug-in hybrids drive in electric mode for only half the distance suggested by official test cycle values, fuel prices are effective in improving the environmental performance of these vehicles.
+  * Media coverage: [ZEW press release](https://www.zew.de/en/press/latest-press-releases/high-fuel-prices-boost-electric-mobility), [*Wirtschaftswoche* (15/2024, in German)](https://archiv.wiwo.de/document/WW__7bc4f644a2530c3e0944d137da051050dca32edf)
+
+## Working Paper
+
+* **[Carbon Price Transmission and Economic Protection: The Design of Border Carbon Adjustments](/assets/pdf/20261031_ParkRauschKarplus.pdf){:target="_blank"}** with *[Sebastian Rausch](https://sebastianrausch.com)* and *[Valerie J. Karplus](https://vkarplus.com)*
+  * **Abstract:** Border carbon adjustments (BCAs) can be mass-based, charging all embodied emissions, or rate-based, charging emissions relative to a benchmark intensity. A rate-based BCA is the border counterpart of an intensity standard, which acts as an emissions tax plus an output subsidy: when applied to domestic production, the subsidy can limit leakage by keeping production at home; at the border, it instead supports foreign production. We develop a plant-level general equilibrium model of global steel and find that a rate-based BCA keeps most of the marginal price but removes the average charge. As a result, it does less for climate protection: a mass-based BCA would achieve the same global emissions at a third of the price in an EU setting and an eighth in a US setting. The average charge also determines who bears the economic burden: it raises fiscal revenue and protects domestic steelmakers, while its removal spares steel users. The rate-based design also shifts upstream production abroad, causing vertical leakage: EU ironmakers face carbon pricing while imported pig iron, a key intermediate input, is nearly uncharged. BCA design therefore fundamentally shapes climate effectiveness, protection for domestic producers, and the distribution of costs.
+  * Previously circulated as "Environmental Ambition and Economic Protectionism: The Design of Border Carbon Adjustments" by **MIT CEEPR** ([Working Paper](https://ceepr.mit.edu/workingpaper/environmental-ambition-and-economic-protectionism-the-design-of-border-carbon-adjustments/), [Research Brief](https://ceepr.mit.edu/wp-content/uploads/2026/06/MIT-CEEPR-WP-2026-12-Brief.pdf)) and **ZEW** ([Discussion Paper](https://www.zew.de/fileadmin/FTP/dp/dp26021.pdf), [Policy Brief](https://www.zew.de/fileadmin/FTP/policybrief/en/pb10-26.pdf)).
+  * Media coverage: [ZEW press release](https://www.zew.de/en/press/latest-press-releases/climate-tariffs-effect-depends-on-design), *POLITICO Pro Energy and Climate* (June 5, 2026), [*Frankfurter Rundschau* (June 9, 2026, in German)](https://www.fr.de/wirtschaft/klimazoelle-gegen-billigstahl-studie-entdeckt-gefaehrlichen-haken-zr-94341074.html)

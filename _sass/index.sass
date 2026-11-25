@@ -1,0 +1,16 @@
+$font-size: calc(0.8rem + 0.2vw) !default
+$font-weight: 400 !default
+$font-family: "PT Sans", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif !default
+$heading-weight: 600 !default
+$line-height: 1.6 !default
+// Links: light mode (about 6.3:1 on white) and dark mode (about 7.5:1 on $dark).
+// Keep comments on their own lines: GitHub Pages' Sass rejects a comment after !default.
+$link-color: #1a5fb4 !default
+$link-color-dark: #8ab4f8 !default
+$dark: #212228 !default
+$light: #ffffff !default
+// Text in dark mode, softer than pure white
+$light-soft: #d8d8dc !default
+
+@function reduce ($percent)
+  @return rgba(mix($dark, $light), $percent / 100)
